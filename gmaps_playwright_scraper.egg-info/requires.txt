@@ -1,5 +1,6 @@
 playwright
+bs4
 pandas
-beautifulsoup4
 ollama
 langchain
+scrapegraphai
