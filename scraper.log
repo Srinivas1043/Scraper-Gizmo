@@ -1,0 +1,6 @@
+2025-06-08 07:12:26.185 | INFO     | gmaps_playwright_scraper.scraper:search:112 - Searching for 'coffee shops' in 'New York, NY'
+2025-06-08 07:14:03.157 | INFO     | gmaps_playwright_scraper.scraper:search:113 - Searching for 'coffee shops' in 'New York, NY'
+2025-06-08 07:14:37.095 | WARNING  | gmaps_playwright_scraper.scraper:_extract_place_from_element:317 - Error extracting place data: Locator.text_content: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("//a[contains(@href, \"/place/\")]").first.locator("h3")
+
