@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: gmaps_playwright_scraper
+Version: 0.1.0
+Requires-Dist: playwright
+Requires-Dist: pandas
+Requires-Dist: beautifulsoup4
+Requires-Dist: ollama
+Requires-Dist: langchain
+Dynamic: requires-dist

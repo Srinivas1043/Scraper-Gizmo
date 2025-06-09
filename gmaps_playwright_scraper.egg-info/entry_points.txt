@@ -1,0 +1,2 @@
+[console_scripts]
+gmaps-scraper = examples.playwright_maps:scrape_google_maps
